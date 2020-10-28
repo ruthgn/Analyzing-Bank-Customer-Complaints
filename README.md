@@ -2,6 +2,10 @@
 
 This project is an example of how we can visualize machine learning results within the domain of Natural Language Processing (NLP) using an interactive dashboard that allows anyone to slice, dice, maximize, and democratize the value of machine learning into actionable insights.
 
+Check out the finished dashboard → https://algoruthm.dev/Analyzing-bank-customer-complaints-with-machine-learning-powered-dashboard/
+
+## How to run this app
+
 To run this app first clone repository and then open a terminal to the app folder.
 
 ```
