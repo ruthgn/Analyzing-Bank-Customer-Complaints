@@ -4,7 +4,7 @@ This project is an example of how we can visualize machine learning results with
 
 Check out the finished dashboard → https://algoruthm.dev/Analyzing-bank-customer-complaints-with-machine-learning-powered-dashboard/
 
-## How to run this app
+## Local setup
 
 To run this app first clone repository and then open a terminal to the app folder.
 
